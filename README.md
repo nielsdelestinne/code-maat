@@ -1,4 +1,6 @@
-> This is a fork of [Adam Tornhill's code-maat repository](https://github.com/adamtornhill/code-maat), be it not registered as such via GitHub.
+# Code Maat (Fork)
+
+> This is a fork of [Adam Tornhill's code-maat repository](https://github.com/adamtornhill/code-maat). It's not registered as such via GitHub, which is intentional as a _connected_ fork will be removed when the upstream repository is removed from GitHub.
 
 # Code Maat
 
