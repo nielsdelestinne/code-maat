@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/adamtornhill/code-maat.png)](https://travis-ci.org/adamtornhill/code-maat)
+> This is a fork of [Adam Tornhill's code-maat repository](https://github.com/adamtornhill/code-maat), be it not registered as such via GitHub.
 
 # Code Maat
 
